@@ -1,0 +1,6 @@
+opencv-python
+numpy
+gradio
+moviepy==1.0.3
+pydub
+Pillow
